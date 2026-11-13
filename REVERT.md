@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GaxCode/GaxDPI/main/GaxDPI.ico" width="96" alt="GaxDPI">
-</p>
-
 <h1 align="center">GaxDPI'ı Kaldırma</h1>
 
 <p align="center">
