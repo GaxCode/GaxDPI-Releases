@@ -1,10 +1,22 @@
-# GaxDPI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaxCode/GaxDPI/main/GaxDPI.ico" width="112" alt="GaxDPI">
+</p>
 
-**Windows için tepsi simgesinden yönetilen bir ağ aracı.**
+<h1 align="center">GaxDPI</h1>
+
+<p align="center"><strong>Windows için tepsi simgesinden yönetilen bir ağ aracı.</strong></p>
+
+<p align="center">
+  <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/GaxCode/GaxDPI-Releases?style=for-the-badge&label=Son%20s%C3%BCr%C3%BCm" alt="Son sürüm"></a>
+  <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/github/downloads/GaxCode/GaxDPI-Releases/total?style=for-the-badge&label=İndirme" alt="Toplam indirme"></a>
+  <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=for-the-badge&logo=windows" alt="Windows x64">
+</p>
+
+<p align="center"><strong><a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest">Son sürümü indir</a></strong></p>
+
+---
 
 GaxDPI, Windows'ta bazı bağlantı ve erişim sorunlarında kullanılabilecek bir uygulamadır. VPN değildir; her ağda veya uygulamada çalışacağı garanti edilmez.
-
-**[Son sürümü indir](https://github.com/GaxCode/GaxDPI-Releases/releases/latest)**
 
 GaxDPI x64 Windows için hazırlanmıştır.
 
