@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/GaxCode/GaxDPI-Releases?style=for-the-badge&label=Son%20s%C3%BCr%C3%BCm" alt="Son sürüm"></a>
-  <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/github/downloads/GaxCode/GaxDPI-Releases/total?style=for-the-badge&label=%C4%B0ndirme" alt="Toplam indirme"></a>
+  <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/github/downloads/GaxCode/GaxDPI-Releases/total?style=for-the-badge&label=Downloads" alt="Toplam indirme"></a>
   <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=for-the-badge&logo=windows" alt="Windows x64">
 </p>
 
