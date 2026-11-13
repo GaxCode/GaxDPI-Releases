@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GaxCode/GaxDPI/main/GaxDPI.ico" width="112" alt="GaxDPI">
-</p>
-
 <h1 align="center">GaxDPI</h1>
 
 <p align="center"><strong>Windows için tepsi simgesinden yönetilen bir ağ aracı.</strong></p>
