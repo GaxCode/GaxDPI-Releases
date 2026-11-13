@@ -1,4 +1,15 @@
-# GaxDPI'ı Kaldırma
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaxCode/GaxDPI/main/GaxDPI.ico" width="96" alt="GaxDPI">
+</p>
+
+<h1 align="center">GaxDPI'ı Kaldırma</h1>
+
+<p align="center">
+  <a href="https://github.com/GaxCode/GaxDPI-Releases"><img src="https://img.shields.io/badge/GaxDPI-Kald%C4%B1rma%20Rehberi-6f42c1?style=for-the-badge" alt="Kaldırma rehberi"></a>
+  <a href="https://github.com/GaxCode/GaxDPI-Releases/releases/latest"><img src="https://img.shields.io/badge/Windows-x64-0078D4?style=for-the-badge&logo=windows" alt="Windows x64"></a>
+</p>
+
+---
 
 GaxDPI'ı kaldırmak için uygulamanın kendi kaldırma seçeneğini kullanın:
 
