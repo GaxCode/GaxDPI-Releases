@@ -16,11 +16,11 @@ GaxDPI, Windows'ta bazı bağlantı ve erişim sorunlarında kullanılabilecek b
 
 ## Uygulama hakkında
 
-GaxDPI, Windows'ta bazı site ve uygulamalardaki bağlantı sorunlarını azaltmaya yardımcı olur. HTTP ve TLS bağlantı paketlerini etkin profildeki ayarlara göre parçalara ayırır; isteğe bağlı DNS yönlendirmesi sunar.
+GaxDPI, Windows'ta bazı site ve uygulamalardaki bağlantı sorunlarını azaltmaya yardımcı olur. HTTP ve TLS bağlantı paketlerini etkin profildeki ayarlara göre parçalara ayırır; isteğe bağlı DNS yönlendirmesi sunar. VPN tüneli kurmaz veya tüm trafiği uzak bir sunucuya taşımaz; trafiği şifrelemez ve IP adresinizi gizlemez.
 
 - Ana pencerede çalışma durumu, uygulama sürümü ve etkin profil bilgileri gösterilir.
 - Tepsi menüsünden uygulamayı başlatabilir veya durdurabilir, güncellemeleri denetleyebilirsiniz.
-- GaxDPI trafiği şifrelemez ve IP adresinizi gizlemez. Sonuçlar ağınıza ve kullandığınız hizmete göre değişebilir.
+- Sonuçlar ağınıza ve kullandığınız hizmete göre değişebilir.
 
 GaxDPI x64 Windows için hazırlanmıştır.
 
