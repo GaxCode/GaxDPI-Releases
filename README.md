@@ -20,13 +20,14 @@ GaxDPI, Windows'ta bazı site ve uygulamalardaki bağlantı sorunlarını azaltm
 
 - Ana pencerede çalışma durumu, uygulama sürümü ve etkin profil bilgileri gösterilir.
 - Tepsi menüsünden uygulamayı başlatabilir veya durdurabilir, güncellemeleri denetleyebilirsiniz.
+- GaxDPI çalışırken internet veya arayüz-hizmet bağlantısı kesilirse durum alanında ve günlükte bildirilir, tepsi simgesi pasife döner; motor, arayüz kapatılsa bile elle durdurulmadıkça çalışmayı sürdürür.
 - Sonuçlar ağınıza ve kullandığınız hizmete göre değişebilir.
 
 GaxDPI x64 Windows için hazırlanmıştır.
 
 ## İndirme ve başlama
 
-1. Yukarıdaki GitHub Releases sayfasından `GaxDPI-v<version>.exe` (ör. `GaxDPI-v1.0.4.exe`) dosyasını indirin.
+1. Yukarıdaki GitHub Releases sayfasından `GaxDPI-v<version>.exe` (ör. `GaxDPI-v1.0.6.exe`) dosyasını indirin.
 2. Dosyayı çalıştırın. İlk kurulumda GaxDPI hizmetini yüklemek için Windows yönetici izni ister.
 3. GaxDPI bildirim alanında açılır. Ana pencereden ya da tepsi simgesine sağ tıklayıp **Başlat / Durdur** seçerek çalışmasını yönetin.
 
