@@ -27,7 +27,7 @@ GaxDPI x64 Windows için hazırlanmıştır.
 
 ## İndirme ve başlama
 
-1. Yukarıdaki GitHub Releases sayfasından `GaxDPI-v<version>.exe` (ör. `GaxDPI-v1.0.6.exe`) dosyasını indirin.
+1. Yukarıdaki GitHub Releases sayfasından `GaxDPI-v<version>.exe` (ör. `GaxDPI-v1.0.7.exe`) dosyasını indirin.
 2. Dosyayı çalıştırın. İlk kurulumda GaxDPI hizmetini yüklemek için Windows yönetici izni ister.
 3. GaxDPI bildirim alanında açılır. Ana pencereden ya da tepsi simgesine sağ tıklayıp **Başlat / Durdur** seçerek çalışmasını yönetin.
 
